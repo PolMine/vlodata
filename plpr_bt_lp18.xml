@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<olac:olac xmlns:olac="http://www.language-archives.org/OLAC/1.1/"
+           xmlns="http://purl.org/dc/elements/1.1/"
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.language-archives.org/OLAC/1.1/
+                http://www.language-archives.org/OLAC/1.1/olac.xsd">
+
+  <title>Parliamentary protocols of the German Bundestag (18th legislative period, 2013-2017)</title>
+  <creator>PolMine Project (www.polmine.de)</creator>
+  <subject>Policy, politics and parliamentarism in Germany</subject>
+  <language xsi:type="olac:language" olac:code="de">German</language>
+  <description>The resource consists of a XMLification of the plenary protocols (preliminary TEI standard) that was prepared in the PolMine project (University of Duisburg-Essen) based on the plain text (txt) documents available. Data quality was improved in the CLARIN curation project "Parlamentsprotokolle als öffentliche Sprachressource der Demokratie". Speeches and interjections are structurally annotated. The names of speakers and speaker affiliations with a parliamentary group / party are consolidated. The TEI documents are available by way of a git repository (gitlab.sowi.uni-due.de). Contact/maintainer: Andreas Blätte (andreas.blaette@uni-due.de)</description>
+  <publisher>Deutscher Bundestag (www.bundestag.de)</publisher>
+  <format>XML/TEI</format>
+  <date>2016-10-07</date>
+  <coverage></coverage>
+  <identifier>https://github.com/PolMine/GermaParlTEI</identifier>
+  <type>Text</type>
+  <rights>The original documents are in the public domain. XML/TEI documents are available for non-commercial users (CLARIN PUB+ID+BY+NC+LRT+NORED+ND+DEP+SA)</rights>
+</olac:olac>
