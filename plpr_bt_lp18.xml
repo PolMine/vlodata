@@ -10,12 +10,12 @@
   <creator>PolMine Project (www.polmine.de)</creator>
   <subject>Policy, politics and parliamentarism in Germany</subject>
   <language xsi:type="olac:language" olac:code="de">German</language>
-  <description>The resource consists of a XMLification of the plenary protocols (preliminary TEI standard) that was prepared in the PolMine project (University of Duisburg-Essen) based on the plain text (txt) documents available. Data quality was improved in the CLARIN curation project "Parlamentsprotokolle als öffentliche Sprachressource der Demokratie". Speeches and interjections are structurally annotated. The names of speakers and speaker affiliations with a parliamentary group / party are consolidated. The TEI documents are available by way of a git repository (gitlab.sowi.uni-due.de). Contact/maintainer: Andreas Blätte (andreas.blaette@uni-due.de)</description>
+  <description>The resource consists of a XMLification of the plenary protocols (preliminary TEI standard) that was prepared in the PolMine project (University of Duisburg-Essen) based on the plain text (txt) documents available. Data quality was improved in the CLARIN curation project "Parlamentsprotokolle als öffentliche Sprachressource der Demokratie". Speeches and interjections are structurally annotated. The names of speakers and speaker affiliations with a parliamentary group / party are consolidated. The TEI documents are available via git repository (gitlab.sowi.uni-due.de). An indexed version of the GermaParl corpus can be downloaded from Zenodo. Contact/maintainer: Andreas Blätte (andreas.blaette@uni-due.de)</description>
   <publisher>Deutscher Bundestag (www.bundestag.de)</publisher>
   <format>XML/TEI</format>
   <date>2016-10-07</date>
   <coverage></coverage>
   <identifier>https://github.com/PolMine/GermaParlTEI</identifier>
   <type>Text</type>
-  <rights>The original documents are in the public domain. XML/TEI documents are available for non-commercial users (CLARIN PUB+ID+BY+NC+LRT+NORED+ND+DEP+SA)</rights>
+  <rights>The original documents are in the public domain. XML/TEI documents are available for non-commercial users.</rights>
 </olac:olac>
